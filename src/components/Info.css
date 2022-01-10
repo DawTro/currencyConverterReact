@@ -1,0 +1,10 @@
+.info {
+  display: flex;
+  justify-content: center;
+  margin: 30px auto;
+}
+@media screen and (max-width: 768px) {
+  .info {
+    text-align: center;
+  }
+}

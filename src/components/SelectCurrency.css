@@ -1,0 +1,12 @@
+.form-select {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  margin: 30px auto;
+  width: 70%;
+}
+@media screen and (max-width: 768px) {
+  .form-select {
+    width: 90%;
+  }
+}
